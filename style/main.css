@@ -1,0 +1,509 @@
+.bg45AAFD {
+  background: #45AAFD;
+}
+.navbar {
+  border-radius: 0%;
+}
+.btnQ {
+  background: #F47378;
+  border: none;
+  width: 40px;
+  height: 30px;
+  color: #fff;
+  border-radius: 30px;
+  border-top-left-radius: 0%;
+  border-bottom-left-radius: 0%;
+  margin-right: -20px;
+}
+.form-group {
+  float: left;
+}
+.form-group .ipt {
+  position: relative;
+  padding: 0 15px 0 15px;
+  width: 200px;
+  height: 30px;
+  border: none;
+  border-radius: 30px;
+  border-top-right-radius: 0%;
+  border-bottom-right-radius: 0%;
+}
+nav {
+  border-bottom: 1px solid #3299EC;
+}
+nav .navbar-header a {
+  display: inline;
+}
+nav .navbar-header a img {
+  width: 100px;
+  margin-top: -6px;
+}
+nav .navbar-header a img:hover {
+  -webkit-animation: h-logo 1s;
+          animation: h-logo 1s;
+}
+@-webkit-keyframes h-logo {
+  0% {
+    -webkit-transform: skewX(0deg);
+            transform: skewX(0deg);
+  }
+  20% {
+    -webkit-transform: skewX(30deg);
+            transform: skewX(30deg);
+  }
+  40% {
+    -webkit-transform: skewX(-20deg);
+            transform: skewX(-20deg);
+  }
+  60% {
+    -webkit-transform: skewX(10deg);
+            transform: skewX(10deg);
+  }
+  80% {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+  100% {
+    -webkit-transform: skewX(0deg);
+            transform: skewX(0deg);
+  }
+}
+@keyframes h-logo {
+  0% {
+    -webkit-transform: skewX(0deg);
+            transform: skewX(0deg);
+  }
+  20% {
+    -webkit-transform: skewX(30deg);
+            transform: skewX(30deg);
+  }
+  40% {
+    -webkit-transform: skewX(-20deg);
+            transform: skewX(-20deg);
+  }
+  60% {
+    -webkit-transform: skewX(10deg);
+            transform: skewX(10deg);
+  }
+  80% {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+  100% {
+    -webkit-transform: skewX(0deg);
+            transform: skewX(0deg);
+  }
+}
+.menu ul {
+  list-style: none;
+  margin-bottom: 0px;
+  padding-left: 10px;
+}
+.menu ul .on {
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+  background: #2D8EDE;
+  margin-top: -5px;
+  border-bottom: 5px solid #F47378;
+}
+.menu ul li {
+  padding: 10px 10px 10px 10px;
+  float: left;
+  font-size: 16px;
+  background: #46AAFB;
+}
+.menu ul li:hover {
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+  background: #2D8EDE;
+  margin-top: -5px;
+  border-bottom: 5px solid #F47378;
+}
+.menu ul li a {
+  color: #fff;
+}
+.menu ul li a:hover {
+  text-decoration: none;
+}
+.t-t-r span {
+  background: #F35A59;
+}
+.t-t-r hr {
+  color: #F35A59;
+  background: #F35A59;
+}
+.t-t-g span {
+  background: #3BC299;
+}
+.t-t-g hr {
+  color: #3BC299;
+  background: #3BC299;
+}
+.t-t-b span {
+  background: #45AAFD;
+}
+.t-t-b hr {
+  color: #45AAFD;
+  background: #45AAFD;
+}
+.t-t-y span {
+  background: #E3900D;
+}
+.t-t-y hr {
+  color: #E3900D;
+  background: #E3900D;
+}
+.t-title {
+  display: block;
+  font-size: 20px;
+  line-height: 80px;
+  width: 200px;
+}
+.t-title span {
+  padding: 10px 20px 10px 20px;
+  color: #fff;
+  margin-left: -15px;
+}
+.t-title hr {
+  width: 1226px;
+  height: 2px;
+  margin: -20px;
+  margin-left: -15px;
+}
+.left-coun .col-md-3 {
+  padding-left: 0px;
+}
+.left-coun .col-md-9 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.left-coun .row .left-mu .tag-title {
+  font-size: 16px;
+  font-family: "microsoft yahei";
+}
+.left-coun .row .left-mu .tag-title .tag-icon {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.left-coun .row .left-mu .tag-title .icon-red {
+  background: #F35A59;
+}
+.left-coun .row .left-mu .tag-title .icon-blue {
+  background: #4093D3;
+}
+.left-coun .row .left-mu .tag-title .icon-green {
+  background: #3BC299;
+}
+.left-coun .row .left-mu ul {
+  width: 250px;
+  overflow: hidden;
+  margin: 0 10px 15px 0;
+}
+.left-coun .row .left-mu ul li {
+  margin-right: 12px;
+  float: left;
+  font-family: "SimSun";
+  font-size: 12px;
+  line-height: 22px;
+}
+.left-coun .row .left-mu ul li a {
+  color: #656565;
+}
+.left-coun .row .left-mu ul li a:hover {
+  color: #FE4443;
+}
+.left-coun .row .right-mu .right-item {
+  overflow: hidden;
+  width: 950px;
+}
+.left-coun .row .right-mu .right-item .pic {
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 1px solid #eee;
+  border-bottom: none;
+  float: left;
+  position: relative;
+}
+.left-coun .row .right-mu .right-item .pic img:hover {
+  border: 1px solid #ddd;
+}
+.left-coun .row .right-mu .right-item .pic img {
+  width: 300px;
+  height: 177px;
+  vertical-align: middle;
+  border: 0;
+}
+.left-coun .row .right-mu .right-item .pic .w-pic-tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-family: Impact, Arial;
+  color: #fff;
+  text-align: center;
+  margin-right: 2px;
+}
+.left-coun .row .right-mu .right-item .pic .w-pic-tag .discount {
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+  background: #FE6665;
+  padding: 3 0 0 3px;
+  width: 55px;
+  line-height: 30px;
+  display: block;
+  font-size: 20px;
+}
+.left-coun .row .right-mu .right-item .pic .w-pic-tag .desc {
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  height: 22px;
+  line-height: 20px;
+  font-size: 16px;
+  display: block;
+  background-color: #48a98f;
+}
+.left-coun .row .right-mu .right-item .pic .tag-title {
+  position: absolute;
+  bottom: 28px;
+  color: #fff;
+  font-size: 15px;
+  padding: 5px;
+  padding-left: 10px;
+}
+.left-coun .row .right-mu .right-item .pic .price {
+  border: 1px solid #D8D8D8;
+  height: 29px;
+  color: #989898;
+  line-height: 29px;
+}
+.left-coun .row .right-mu .right-item .pic .price .old {
+  float: left;
+  line-height: 29px;
+  margin-left: 10px;
+  color: #999;
+}
+.left-coun .row .right-mu .right-item .pic .price .old .song {
+  text-decoration: line-through;
+  font-family: SimSun;
+}
+.left-coun .row .right-mu .right-item .pic .price .new {
+  float: right;
+  color: #f66;
+  font: 22px/29px 'microsoft yahei';
+  margin-right: 10px;
+}
+.footer {
+  margin-top: 50px;
+  width: 100%;
+  background: #E8E7EE;
+}
+.footer .container .top {
+  color: #626165;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.footer .container .top .channel-logo {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 25px;
+  margin-top: 20px;
+}
+.footer .container .top .channel-logo img {
+  width: 260px;
+  height: 67px;
+}
+.footer .container .top .channel {
+  display: inline-block;
+  vertical-align: top;
+  width: 265px;
+  height: 97px;
+  overflow: hidden;
+}
+.footer .container .top .channel a {
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial,
+                        SimSun;
+  font-size: 12px;
+  margin-right: 15px;
+  height: 12px;
+  line-height: 13px;
+  margin-bottom: 12px;
+  color: #626165;
+}
+.footer .container .top .channel a:hover {
+  color: #FE5406;
+}
+.footer .container .top .channel .channel-title {
+  font-family: "Microsoft YaHei";
+  font-size: 16px;
+  padding: 0 25px;
+}
+.footer .container .top .channel .channel-wrapper {
+  margin-top: 10px;
+  padding-left: 25px;
+  padding-right: 20px;
+  border-left: 1px solid #ddd;
+  height: 63px;
+  overflow: hidden;
+}
+.footer .container .top .others {
+  width: 460px;
+  display: inline-block;
+  vertical-align: top;
+  width: 265px;
+  height: 97px;
+  overflow: hidden;
+}
+.footer .container .top .others img {
+  width: 100px;
+  margin-left: 30px;
+}
+.footer .container .top .others a {
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial,
+                        SimSun;
+  font-size: 12px;
+  margin-right: 15px;
+  height: 12px;
+  line-height: 13px;
+  margin-bottom: 12px;
+  color: #626165;
+}
+.footer .container .top .others a:hover {
+  color: #FE5406;
+}
+.footer .container .top .others .others-title {
+  font-family: Microsoft YaHei;
+  font-size: 16px;
+  padding: 0 25px;
+}
+.footer .container .top .others .others-title a {
+  display: none;
+}
+.footer .container .top .others .others-wrapper {
+  border-right: 1px solid #ddd;
+  margin-top: 10px;
+  padding-left: 25px;
+  padding-right: 20px;
+  border-left: 1px solid #ddd;
+  height: 63px;
+  overflow: hidden;
+}
+.footer .container .bottom {
+  width: 100%;
+  height: 89px;
+  border-top: 1px solid #e0e0e0;
+}
+.footer .container .bottom .left-wrap .bottom-nav {
+  margin-top: 16px;
+}
+.footer .container .bottom .left-wrap .bottom-nav a {
+  color: #656565;
+  margin-right: 20px;
+}
+.footer .container .bottom .left-wrap .bottom-nav a:hover {
+  color: #FE5406;
+}
+.ad {
+  width: 100px;
+  height: 300px;
+  border: 1px solid #ddd;
+}
+.topline {
+  width: 1228px;
+  margin-left: -15px;
+}
+.topline .flight:hover {
+  background: #F3F3F3;
+}
+.topline .flight {
+  border-left: 1px solid #ccc;
+  width: 111.4px;
+  height: 88px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+.topline .flight:last-child {
+  border-right: 1px solid #ccc;
+}
+.topline .flight span {
+  display: inline-block;
+}
+.topline .flight .f-t {
+  color: #666;
+}
+.topline .flight .from,
+.topline .flight .to {
+  color: #666;
+  margin-top: 10px;
+  font-family: Simsun;
+}
+.topline .flight .tickets-price {
+  display: block !important;
+  color: #f66;
+  font: 22px/30px 'microsoft yahei';
+}
+.topline .flight .tickets-date {
+  color: #666;
+  line-height: 12px;
+}
+.flights a:hover {
+  background: #F3F3F3;
+}
+.flights {
+  margin-right: 60px;
+  margin-left: 60px;
+  float: left;
+  width: 440px;
+  overflow: hidden;
+  font: 14px/30px SimSun;
+  display: block;
+  border-bottom: 1px dashed #ccc;
+  height: 300px;
+  text-decoration: none;
+}
+.flights .flight11 {
+  width: 440px;
+  height: 247px;
+  display: block;
+  border-bottom: 1px dashed #ccc;
+  height: 30px;
+  font: 14px/30px SimSun;
+  text-decoration: none;
+  color: #333;
+  overflow: hidden;
+}
+.flights .flight11 span {
+  color: #333;
+  float: left;
+}
+.flights .flight11 .tickets-price {
+  width: 70px;
+  color: #f66;
+  margin-left: 5px;
+  font-weight: 700;
+  font-family: 'microsoft yahei';
+}
+.flights .flight11 .tickets-date {
+  width: 80px;
+}
+.flights .flight11 .from,
+.flights .flight11 .to {
+  width: 85px;
+  text-align: right;
+}
+.flights .flight11 .f-t {
+  width: 38px;
+  text-align: right;
+  margin-top: 6px;
+}
+.flights .flight11 .discount {
+  width: 50px;
+  margin-left: 22px;
+}
+/*# sourceMappingURL=./main.css.map */

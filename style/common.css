@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+}
+.height20 {
+  height: 20px;
+}
+em {
+  font-style: normal;
+}
+input,
+button {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=./common.css.map */
